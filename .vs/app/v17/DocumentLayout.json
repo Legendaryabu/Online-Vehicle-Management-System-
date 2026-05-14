@@ -1,0 +1,569 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Abdhullah Mohammad\\Desktop\\OVSMS\\app\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85973637-301E-4779-B13F-A69A65DE5F6C}|app\\OVSMS_Desktop.csproj|c:\\users\\abdhullah mohammad\\desktop\\ovsms\\app\\app\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85973637-301E-4779-B13F-A69A65DE5F6C}|app\\OVSMS_Desktop.csproj|solutionrelative:app\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85973637-301E-4779-B13F-A69A65DE5F6C}|app\\OVSMS_Desktop.csproj|c:\\users\\abdhullah mohammad\\desktop\\ovsms\\app\\app\\forms\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85973637-301E-4779-B13F-A69A65DE5F6C}|app\\OVSMS_Desktop.csproj|solutionrelative:app\\forms\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85973637-301E-4779-B13F-A69A65DE5F6C}|app\\OVSMS_Desktop.csproj|c:\\users\\abdhullah mohammad\\desktop\\ovsms\\app\\app\\forms\\providerdashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85973637-301E-4779-B13F-A69A65DE5F6C}|app\\OVSMS_Desktop.csproj|solutionrelative:app\\forms\\providerdashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85973637-301E-4779-B13F-A69A65DE5F6C}|app\\OVSMS_Desktop.csproj|c:\\users\\abdhullah mohammad\\desktop\\ovsms\\app\\app\\forms\\admindashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85973637-301E-4779-B13F-A69A65DE5F6C}|app\\OVSMS_Desktop.csproj|solutionrelative:app\\forms\\admindashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85973637-301E-4779-B13F-A69A65DE5F6C}|app\\OVSMS_Desktop.csproj|c:\\users\\abdhullah mohammad\\desktop\\ovsms\\app\\app\\data\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85973637-301E-4779-B13F-A69A65DE5F6C}|app\\OVSMS_Desktop.csproj|solutionrelative:app\\data\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85973637-301E-4779-B13F-A69A65DE5F6C}|app\\OVSMS_Desktop.csproj|c:\\users\\abdhullah mohammad\\desktop\\ovsms\\app\\app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85973637-301E-4779-B13F-A69A65DE5F6C}|app\\OVSMS_Desktop.csproj|solutionrelative:app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85973637-301E-4779-B13F-A69A65DE5F6C}|app\\OVSMS_Desktop.csproj|c:\\users\\abdhullah mohammad\\desktop\\ovsms\\app\\app\\forms\\contactsupportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85973637-301E-4779-B13F-A69A65DE5F6C}|app\\OVSMS_Desktop.csproj|solutionrelative:app\\forms\\contactsupportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85973637-301E-4779-B13F-A69A65DE5F6C}|app\\OVSMS_Desktop.csproj|c:\\users\\abdhullah mohammad\\desktop\\ovsms\\app\\app\\forms\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85973637-301E-4779-B13F-A69A65DE5F6C}|app\\OVSMS_Desktop.csproj|solutionrelative:app\\forms\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85973637-301E-4779-B13F-A69A65DE5F6C}|app\\OVSMS_Desktop.csproj|c:\\users\\abdhullah mohammad\\desktop\\ovsms\\app\\app\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85973637-301E-4779-B13F-A69A65DE5F6C}|app\\OVSMS_Desktop.csproj|solutionrelative:app\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85973637-301E-4779-B13F-A69A65DE5F6C}|app\\OVSMS_Desktop.csproj|c:\\users\\abdhullah mohammad\\desktop\\ovsms\\app\\app\\forms\\contactsupportform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85973637-301E-4779-B13F-A69A65DE5F6C}|app\\OVSMS_Desktop.csproj|solutionrelative:app\\forms\\contactsupportform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85973637-301E-4779-B13F-A69A65DE5F6C}|app\\OVSMS_Desktop.csproj|c:\\users\\abdhullah mohammad\\desktop\\ovsms\\app\\app\\forms\\selectproviderform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85973637-301E-4779-B13F-A69A65DE5F6C}|app\\OVSMS_Desktop.csproj|solutionrelative:app\\forms\\selectproviderform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85973637-301E-4779-B13F-A69A65DE5F6C}|app\\OVSMS_Desktop.csproj|c:\\users\\abdhullah mohammad\\desktop\\ovsms\\app\\app\\forms\\selectproviderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85973637-301E-4779-B13F-A69A65DE5F6C}|app\\OVSMS_Desktop.csproj|solutionrelative:app\\forms\\selectproviderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85973637-301E-4779-B13F-A69A65DE5F6C}|app\\OVSMS_Desktop.csproj|c:\\users\\abdhullah mohammad\\desktop\\ovsms\\app\\app\\forms\\registerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85973637-301E-4779-B13F-A69A65DE5F6C}|app\\OVSMS_Desktop.csproj|solutionrelative:app\\forms\\registerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85973637-301E-4779-B13F-A69A65DE5F6C}|app\\OVSMS_Desktop.csproj|c:\\users\\abdhullah mohammad\\desktop\\ovsms\\app\\app\\forms\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85973637-301E-4779-B13F-A69A65DE5F6C}|app\\OVSMS_Desktop.csproj|solutionrelative:app\\forms\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85973637-301E-4779-B13F-A69A65DE5F6C}|app\\OVSMS_Desktop.csproj|c:\\users\\abdhullah mohammad\\desktop\\ovsms\\app\\app\\forms\\providerdashboardform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85973637-301E-4779-B13F-A69A65DE5F6C}|app\\OVSMS_Desktop.csproj|solutionrelative:app\\forms\\providerdashboardform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85973637-301E-4779-B13F-A69A65DE5F6C}|app\\OVSMS_Desktop.csproj|c:\\users\\abdhullah mohammad\\desktop\\ovsms\\app\\app\\forms\\paymentform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85973637-301E-4779-B13F-A69A65DE5F6C}|app\\OVSMS_Desktop.csproj|solutionrelative:app\\forms\\paymentform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85973637-301E-4779-B13F-A69A65DE5F6C}|app\\OVSMS_Desktop.csproj|c:\\users\\abdhullah mohammad\\desktop\\ovsms\\app\\app\\forms\\paymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85973637-301E-4779-B13F-A69A65DE5F6C}|app\\OVSMS_Desktop.csproj|solutionrelative:app\\forms\\paymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85973637-301E-4779-B13F-A69A65DE5F6C}|app\\OVSMS_Desktop.csproj|c:\\users\\abdhullah mohammad\\desktop\\ovsms\\app\\app\\forms\\dashboardform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85973637-301E-4779-B13F-A69A65DE5F6C}|app\\OVSMS_Desktop.csproj|solutionrelative:app\\forms\\dashboardform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85973637-301E-4779-B13F-A69A65DE5F6C}|app\\OVSMS_Desktop.csproj|c:\\users\\abdhullah mohammad\\desktop\\ovsms\\app\\app\\forms\\bookingform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85973637-301E-4779-B13F-A69A65DE5F6C}|app\\OVSMS_Desktop.csproj|solutionrelative:app\\forms\\bookingform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85973637-301E-4779-B13F-A69A65DE5F6C}|app\\OVSMS_Desktop.csproj|c:\\users\\abdhullah mohammad\\desktop\\ovsms\\app\\app\\forms\\bookingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85973637-301E-4779-B13F-A69A65DE5F6C}|app\\OVSMS_Desktop.csproj|solutionrelative:app\\forms\\bookingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85973637-301E-4779-B13F-A69A65DE5F6C}|app\\OVSMS_Desktop.csproj|c:\\users\\abdhullah mohammad\\desktop\\ovsms\\app\\app\\controls\\servicecardcontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85973637-301E-4779-B13F-A69A65DE5F6C}|app\\OVSMS_Desktop.csproj|solutionrelative:app\\controls\\servicecardcontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85973637-301E-4779-B13F-A69A65DE5F6C}|app\\OVSMS_Desktop.csproj|c:\\users\\abdhullah mohammad\\desktop\\ovsms\\app\\app\\forms\\admindashboardform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85973637-301E-4779-B13F-A69A65DE5F6C}|app\\OVSMS_Desktop.csproj|solutionrelative:app\\forms\\admindashboardform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85973637-301E-4779-B13F-A69A65DE5F6C}|app\\OVSMS_Desktop.csproj|c:\\users\\abdhullah mohammad\\desktop\\ovsms\\app\\app\\controls\\servicecardcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85973637-301E-4779-B13F-A69A65DE5F6C}|app\\OVSMS_Desktop.csproj|solutionrelative:app\\controls\\servicecardcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85973637-301E-4779-B13F-A69A65DE5F6C}|app\\OVSMS_Desktop.csproj|C:\\Users\\Abdhullah Mohammad\\Desktop\\OVSMS\\app\\app\\forms\\bookingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{85973637-301E-4779-B13F-A69A65DE5F6C}|app\\OVSMS_Desktop.csproj|solutionrelative:app\\forms\\bookingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85973637-301E-4779-B13F-A69A65DE5F6C}|app\\OVSMS_Desktop.csproj|C:\\Users\\Abdhullah Mohammad\\Desktop\\OVSMS\\app\\app\\forms\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{85973637-301E-4779-B13F-A69A65DE5F6C}|app\\OVSMS_Desktop.csproj|solutionrelative:app\\forms\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85973637-301E-4779-B13F-A69A65DE5F6C}|app\\OVSMS_Desktop.csproj|C:\\Users\\Abdhullah Mohammad\\Desktop\\OVSMS\\app\\app\\forms\\contactsupportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{85973637-301E-4779-B13F-A69A65DE5F6C}|app\\OVSMS_Desktop.csproj|solutionrelative:app\\forms\\contactsupportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85973637-301E-4779-B13F-A69A65DE5F6C}|app\\OVSMS_Desktop.csproj|C:\\Users\\Abdhullah Mohammad\\Desktop\\OVSMS\\app\\app\\forms\\admindashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{85973637-301E-4779-B13F-A69A65DE5F6C}|app\\OVSMS_Desktop.csproj|solutionrelative:app\\forms\\admindashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85973637-301E-4779-B13F-A69A65DE5F6C}|app\\OVSMS_Desktop.csproj|C:\\Users\\Abdhullah Mohammad\\Desktop\\OVSMS\\app\\app\\forms\\paymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{85973637-301E-4779-B13F-A69A65DE5F6C}|app\\OVSMS_Desktop.csproj|solutionrelative:app\\forms\\paymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85973637-301E-4779-B13F-A69A65DE5F6C}|app\\OVSMS_Desktop.csproj|C:\\Users\\Abdhullah Mohammad\\Desktop\\OVSMS\\app\\app\\forms\\providerdashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{85973637-301E-4779-B13F-A69A65DE5F6C}|app\\OVSMS_Desktop.csproj|solutionrelative:app\\forms\\providerdashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85973637-301E-4779-B13F-A69A65DE5F6C}|app\\OVSMS_Desktop.csproj|C:\\Users\\Abdhullah Mohammad\\Desktop\\OVSMS\\app\\app\\forms\\selectproviderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{85973637-301E-4779-B13F-A69A65DE5F6C}|app\\OVSMS_Desktop.csproj|solutionrelative:app\\forms\\selectproviderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85973637-301E-4779-B13F-A69A65DE5F6C}|app\\OVSMS_Desktop.csproj|C:\\Users\\Abdhullah Mohammad\\Desktop\\OVSMS\\app\\app\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{85973637-301E-4779-B13F-A69A65DE5F6C}|app\\OVSMS_Desktop.csproj|solutionrelative:app\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85973637-301E-4779-B13F-A69A65DE5F6C}|app\\OVSMS_Desktop.csproj|C:\\Users\\Abdhullah Mohammad\\Desktop\\OVSMS\\app\\app\\controls\\servicecardcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{85973637-301E-4779-B13F-A69A65DE5F6C}|app\\OVSMS_Desktop.csproj|solutionrelative:app\\controls\\servicecardcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85973637-301E-4779-B13F-A69A65DE5F6C}|app\\OVSMS_Desktop.csproj|C:\\Users\\Abdhullah Mohammad\\Desktop\\OVSMS\\app\\app\\forms\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{85973637-301E-4779-B13F-A69A65DE5F6C}|app\\OVSMS_Desktop.csproj|solutionrelative:app\\forms\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85973637-301E-4779-B13F-A69A65DE5F6C}|app\\OVSMS_Desktop.csproj|c:\\users\\abdhullah mohammad\\desktop\\ovsms\\app\\app\\migrations\\20251026143731_addpaymentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85973637-301E-4779-B13F-A69A65DE5F6C}|app\\OVSMS_Desktop.csproj|solutionrelative:app\\migrations\\20251026143731_addpaymentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ContactSupportForm.cs",
+              "DocumentMoniker": "C:\\Users\\Abdhullah Mohammad\\Desktop\\OVSMS\\app\\app\\Forms\\ContactSupportForm.cs",
+              "RelativeDocumentMoniker": "app\\Forms\\ContactSupportForm.cs",
+              "ToolTip": "C:\\Users\\Abdhullah Mohammad\\Desktop\\OVSMS\\app\\app\\Forms\\ContactSupportForm.cs",
+              "RelativeToolTip": "app\\Forms\\ContactSupportForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T22:17:54.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Abdhullah Mohammad\\Desktop\\OVSMS\\app\\app\\Program.cs",
+              "RelativeDocumentMoniker": "app\\Program.cs",
+              "ToolTip": "C:\\Users\\Abdhullah Mohammad\\Desktop\\OVSMS\\app\\app\\Program.cs",
+              "RelativeToolTip": "app\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwB4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T01:18:09.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DashboardForm.cs",
+              "DocumentMoniker": "C:\\Users\\Abdhullah Mohammad\\Desktop\\OVSMS\\app\\app\\Forms\\DashboardForm.cs",
+              "RelativeDocumentMoniker": "app\\Forms\\DashboardForm.cs",
+              "ToolTip": "C:\\Users\\Abdhullah Mohammad\\Desktop\\OVSMS\\app\\app\\Forms\\DashboardForm.cs",
+              "RelativeToolTip": "app\\Forms\\DashboardForm.cs",
+              "ViewState": "AgIAADsBAAAAAAAAAAAiwAcBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T02:59:42.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Models.cs",
+              "DocumentMoniker": "C:\\Users\\Abdhullah Mohammad\\Desktop\\OVSMS\\app\\app\\Data\\Models.cs",
+              "RelativeDocumentMoniker": "app\\Data\\Models.cs",
+              "ToolTip": "C:\\Users\\Abdhullah Mohammad\\Desktop\\OVSMS\\app\\app\\Data\\Models.cs",
+              "RelativeToolTip": "app\\Data\\Models.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T01:10:13.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminDashboardForm.cs",
+              "DocumentMoniker": "C:\\Users\\Abdhullah Mohammad\\Desktop\\OVSMS\\app\\app\\Forms\\AdminDashboardForm.cs",
+              "RelativeDocumentMoniker": "app\\Forms\\AdminDashboardForm.cs",
+              "ToolTip": "C:\\Users\\Abdhullah Mohammad\\Desktop\\OVSMS\\app\\app\\Forms\\AdminDashboardForm.cs",
+              "RelativeToolTip": "app\\Forms\\AdminDashboardForm.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAgwFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T22:42:19.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProviderDashboardForm.cs",
+              "DocumentMoniker": "C:\\Users\\Abdhullah Mohammad\\Desktop\\OVSMS\\app\\app\\Forms\\ProviderDashboardForm.cs",
+              "RelativeDocumentMoniker": "app\\Forms\\ProviderDashboardForm.cs",
+              "ToolTip": "C:\\Users\\Abdhullah Mohammad\\Desktop\\OVSMS\\app\\app\\Forms\\ProviderDashboardForm.cs",
+              "RelativeToolTip": "app\\Forms\\ProviderDashboardForm.cs",
+              "ViewState": "AgIAAEsBAAAAAAAAAAAYwD0BAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T20:48:00.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\Abdhullah Mohammad\\Desktop\\OVSMS\\app\\app\\Forms\\LoginForm.cs",
+              "RelativeDocumentMoniker": "app\\Forms\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Abdhullah Mohammad\\Desktop\\OVSMS\\app\\app\\Forms\\LoginForm.cs",
+              "RelativeToolTip": "app\\Forms\\LoginForm.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwCcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T01:34:15.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Abdhullah Mohammad\\Desktop\\OVSMS\\app\\app\\Forms\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "app\\Forms\\LoginForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Abdhullah Mohammad\\Desktop\\OVSMS\\app\\app\\Forms\\LoginForm.Designer.cs",
+              "RelativeToolTip": "app\\Forms\\LoginForm.Designer.cs",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAYwL0AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T01:45:04.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Abdhullah Mohammad\\Desktop\\OVSMS\\app\\app\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "app\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Abdhullah Mohammad\\Desktop\\OVSMS\\app\\app\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "app\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T01:53:48.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ContactSupportForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Abdhullah Mohammad\\Desktop\\OVSMS\\app\\app\\Forms\\ContactSupportForm.Designer.cs",
+              "RelativeDocumentMoniker": "app\\Forms\\ContactSupportForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Abdhullah Mohammad\\Desktop\\OVSMS\\app\\app\\Forms\\ContactSupportForm.Designer.cs",
+              "RelativeToolTip": "app\\Forms\\ContactSupportForm.Designer.cs",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAYwMIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T22:18:18.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SelectProviderForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Abdhullah Mohammad\\Desktop\\OVSMS\\app\\app\\Forms\\SelectProviderForm.Designer.cs",
+              "RelativeDocumentMoniker": "app\\Forms\\SelectProviderForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Abdhullah Mohammad\\Desktop\\OVSMS\\app\\app\\Forms\\SelectProviderForm.Designer.cs",
+              "RelativeToolTip": "app\\Forms\\SelectProviderForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T00:20:49.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SelectProviderForm.cs",
+              "DocumentMoniker": "C:\\Users\\Abdhullah Mohammad\\Desktop\\OVSMS\\app\\app\\Forms\\SelectProviderForm.cs",
+              "RelativeDocumentMoniker": "app\\Forms\\SelectProviderForm.cs",
+              "ToolTip": "C:\\Users\\Abdhullah Mohammad\\Desktop\\OVSMS\\app\\app\\Forms\\SelectProviderForm.cs",
+              "RelativeToolTip": "app\\Forms\\SelectProviderForm.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T00:20:29.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RegisterForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Abdhullah Mohammad\\Desktop\\OVSMS\\app\\app\\Forms\\RegisterForm.Designer.cs",
+              "RelativeDocumentMoniker": "app\\Forms\\RegisterForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Abdhullah Mohammad\\Desktop\\OVSMS\\app\\app\\Forms\\RegisterForm.Designer.cs",
+              "RelativeToolTip": "app\\Forms\\RegisterForm.Designer.cs",
+              "ViewState": "AgIAAAsBAAAAAAAAAAAYwBQBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T01:41:11.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RegisterForm.cs",
+              "DocumentMoniker": "C:\\Users\\Abdhullah Mohammad\\Desktop\\OVSMS\\app\\app\\Forms\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "app\\Forms\\RegisterForm.cs",
+              "ToolTip": "C:\\Users\\Abdhullah Mohammad\\Desktop\\OVSMS\\app\\app\\Forms\\RegisterForm.cs",
+              "RelativeToolTip": "app\\Forms\\RegisterForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T01:34:35.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProviderDashboardForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Abdhullah Mohammad\\Desktop\\OVSMS\\app\\app\\Forms\\ProviderDashboardForm.Designer.cs",
+              "RelativeDocumentMoniker": "app\\Forms\\ProviderDashboardForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Abdhullah Mohammad\\Desktop\\OVSMS\\app\\app\\Forms\\ProviderDashboardForm.Designer.cs",
+              "RelativeToolTip": "app\\Forms\\ProviderDashboardForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T20:48:22.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PaymentForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Abdhullah Mohammad\\Desktop\\OVSMS\\app\\app\\Forms\\PaymentForm.Designer.cs",
+              "RelativeDocumentMoniker": "app\\Forms\\PaymentForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Abdhullah Mohammad\\Desktop\\OVSMS\\app\\app\\Forms\\PaymentForm.Designer.cs",
+              "RelativeToolTip": "app\\Forms\\PaymentForm.Designer.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAYwCYBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T14:41:18.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PaymentForm.cs",
+              "DocumentMoniker": "C:\\Users\\Abdhullah Mohammad\\Desktop\\OVSMS\\app\\app\\Forms\\PaymentForm.cs",
+              "RelativeDocumentMoniker": "app\\Forms\\PaymentForm.cs",
+              "ToolTip": "C:\\Users\\Abdhullah Mohammad\\Desktop\\OVSMS\\app\\app\\Forms\\PaymentForm.cs",
+              "RelativeToolTip": "app\\Forms\\PaymentForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T14:35:34.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DashboardForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Abdhullah Mohammad\\Desktop\\OVSMS\\app\\app\\Forms\\DashboardForm.Designer.cs",
+              "RelativeDocumentMoniker": "app\\Forms\\DashboardForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Abdhullah Mohammad\\Desktop\\OVSMS\\app\\app\\Forms\\DashboardForm.Designer.cs",
+              "RelativeToolTip": "app\\Forms\\DashboardForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T03:00:13.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BookingForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Abdhullah Mohammad\\Desktop\\OVSMS\\app\\app\\Forms\\BookingForm.Designer.cs",
+              "RelativeDocumentMoniker": "app\\Forms\\BookingForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Abdhullah Mohammad\\Desktop\\OVSMS\\app\\app\\Forms\\BookingForm.Designer.cs",
+              "RelativeToolTip": "app\\Forms\\BookingForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T04:40:00.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BookingForm.cs",
+              "DocumentMoniker": "C:\\Users\\Abdhullah Mohammad\\Desktop\\OVSMS\\app\\app\\Forms\\BookingForm.cs",
+              "RelativeDocumentMoniker": "app\\Forms\\BookingForm.cs",
+              "ToolTip": "C:\\Users\\Abdhullah Mohammad\\Desktop\\OVSMS\\app\\app\\Forms\\BookingForm.cs",
+              "RelativeToolTip": "app\\Forms\\BookingForm.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAkwGIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T04:33:40.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ServiceCardControl.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Abdhullah Mohammad\\Desktop\\OVSMS\\app\\app\\Controls\\ServiceCardControl.Designer.cs",
+              "RelativeDocumentMoniker": "app\\Controls\\ServiceCardControl.Designer.cs",
+              "ToolTip": "C:\\Users\\Abdhullah Mohammad\\Desktop\\OVSMS\\app\\app\\Controls\\ServiceCardControl.Designer.cs",
+              "RelativeToolTip": "app\\Controls\\ServiceCardControl.Designer.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAwAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T03:08:01.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AdminDashboardForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Abdhullah Mohammad\\Desktop\\OVSMS\\app\\app\\Forms\\AdminDashboardForm.Designer.cs",
+              "RelativeDocumentMoniker": "app\\Forms\\AdminDashboardForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Abdhullah Mohammad\\Desktop\\OVSMS\\app\\app\\Forms\\AdminDashboardForm.Designer.cs",
+              "RelativeToolTip": "app\\Forms\\AdminDashboardForm.Designer.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T22:42:34.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ServiceCardControl.cs",
+              "DocumentMoniker": "C:\\Users\\Abdhullah Mohammad\\Desktop\\OVSMS\\app\\app\\Controls\\ServiceCardControl.cs",
+              "RelativeDocumentMoniker": "app\\Controls\\ServiceCardControl.cs",
+              "ToolTip": "C:\\Users\\Abdhullah Mohammad\\Desktop\\OVSMS\\app\\app\\Controls\\ServiceCardControl.cs",
+              "RelativeToolTip": "app\\Controls\\ServiceCardControl.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAYwB4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T03:07:34.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BookingForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abdhullah Mohammad\\Desktop\\OVSMS\\app\\app\\Forms\\BookingForm.cs",
+              "RelativeDocumentMoniker": "app\\Forms\\BookingForm.cs",
+              "ToolTip": "C:\\Users\\Abdhullah Mohammad\\Desktop\\OVSMS\\app\\app\\Forms\\BookingForm.cs [Design]",
+              "RelativeToolTip": "app\\Forms\\BookingForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T04:31:36.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DashboardForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abdhullah Mohammad\\Desktop\\OVSMS\\app\\app\\Forms\\DashboardForm.cs",
+              "RelativeDocumentMoniker": "app\\Forms\\DashboardForm.cs",
+              "ToolTip": "C:\\Users\\Abdhullah Mohammad\\Desktop\\OVSMS\\app\\app\\Forms\\DashboardForm.cs [Design]",
+              "RelativeToolTip": "app\\Forms\\DashboardForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T02:13:35.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ContactSupportForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abdhullah Mohammad\\Desktop\\OVSMS\\app\\app\\Forms\\ContactSupportForm.cs",
+              "RelativeDocumentMoniker": "app\\Forms\\ContactSupportForm.cs",
+              "ToolTip": "C:\\Users\\Abdhullah Mohammad\\Desktop\\OVSMS\\app\\app\\Forms\\ContactSupportForm.cs [Design]",
+              "RelativeToolTip": "app\\Forms\\ContactSupportForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T22:17:45.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AdminDashboardForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abdhullah Mohammad\\Desktop\\OVSMS\\app\\app\\Forms\\AdminDashboardForm.cs",
+              "RelativeDocumentMoniker": "app\\Forms\\AdminDashboardForm.cs",
+              "ToolTip": "C:\\Users\\Abdhullah Mohammad\\Desktop\\OVSMS\\app\\app\\Forms\\AdminDashboardForm.cs [Design]",
+              "RelativeToolTip": "app\\Forms\\AdminDashboardForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T22:41:56.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20251026143731_AddPaymentModel.cs",
+              "DocumentMoniker": "C:\\Users\\Abdhullah Mohammad\\Desktop\\OVSMS\\app\\app\\Migrations\\20251026143731_AddPaymentModel.cs",
+              "RelativeDocumentMoniker": "app\\Migrations\\20251026143731_AddPaymentModel.cs",
+              "ToolTip": "C:\\Users\\Abdhullah Mohammad\\Desktop\\OVSMS\\app\\app\\Migrations\\20251026143731_AddPaymentModel.cs",
+              "RelativeToolTip": "app\\Migrations\\20251026143731_AddPaymentModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T14:37:31.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PaymentForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abdhullah Mohammad\\Desktop\\OVSMS\\app\\app\\Forms\\PaymentForm.cs",
+              "RelativeDocumentMoniker": "app\\Forms\\PaymentForm.cs",
+              "ToolTip": "C:\\Users\\Abdhullah Mohammad\\Desktop\\OVSMS\\app\\app\\Forms\\PaymentForm.cs [Design]",
+              "RelativeToolTip": "app\\Forms\\PaymentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T14:35:13.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ProviderDashboardForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abdhullah Mohammad\\Desktop\\OVSMS\\app\\app\\Forms\\ProviderDashboardForm.cs",
+              "RelativeDocumentMoniker": "app\\Forms\\ProviderDashboardForm.cs",
+              "ToolTip": "C:\\Users\\Abdhullah Mohammad\\Desktop\\OVSMS\\app\\app\\Forms\\ProviderDashboardForm.cs [Design]",
+              "RelativeToolTip": "app\\Forms\\ProviderDashboardForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T20:47:44.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SelectProviderForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abdhullah Mohammad\\Desktop\\OVSMS\\app\\app\\Forms\\SelectProviderForm.cs",
+              "RelativeDocumentMoniker": "app\\Forms\\SelectProviderForm.cs",
+              "ToolTip": "C:\\Users\\Abdhullah Mohammad\\Desktop\\OVSMS\\app\\app\\Forms\\SelectProviderForm.cs [Design]",
+              "RelativeToolTip": "app\\Forms\\SelectProviderForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T00:19:02.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abdhullah Mohammad\\Desktop\\OVSMS\\app\\app\\Forms\\LoginForm.cs",
+              "RelativeDocumentMoniker": "app\\Forms\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Abdhullah Mohammad\\Desktop\\OVSMS\\app\\app\\Forms\\LoginForm.cs [Design]",
+              "RelativeToolTip": "app\\Forms\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T01:15:37.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ServiceCardControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abdhullah Mohammad\\Desktop\\OVSMS\\app\\app\\Controls\\ServiceCardControl.cs",
+              "RelativeDocumentMoniker": "app\\Controls\\ServiceCardControl.cs",
+              "ToolTip": "C:\\Users\\Abdhullah Mohammad\\Desktop\\OVSMS\\app\\app\\Controls\\ServiceCardControl.cs [Design]",
+              "RelativeToolTip": "app\\Controls\\ServiceCardControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T03:07:07.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "RegisterForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abdhullah Mohammad\\Desktop\\OVSMS\\app\\app\\Forms\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "app\\Forms\\RegisterForm.cs",
+              "ToolTip": "C:\\Users\\Abdhullah Mohammad\\Desktop\\OVSMS\\app\\app\\Forms\\RegisterForm.cs [Design]",
+              "RelativeToolTip": "app\\Forms\\RegisterForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T01:16:44.801Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
